@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6244ca80e2593074c849b60af5c1d124, type: 3}
+  m_Name: Game Text 2 data
+  m_EditorClassIdentifier: 
+  languages:
+  - language: English
+    content: Different SO's will apply different content to your strings
+  - language: French
+    content: "Diff\xE9rents SO appliqueront un contenu diff\xE9rent \xE0 vos cha\xEEnes"
+  - language: Italian
+    content: SO differenti applicheranno contenuti differenti alle tue stringhe

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6244ca80e2593074c849b60af5c1d124, type: 3}
+  m_Name: Game Text 1 data
+  m_EditorClassIdentifier: 
+  languages:
+  - language: English
+    content: Sentence for English speakers
+  - language: French
+    content: Phrase pour les francophones
+  - language: Italian
+    content: Frase per chi parla italiano
